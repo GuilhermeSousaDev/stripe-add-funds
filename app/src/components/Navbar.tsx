@@ -71,7 +71,7 @@ export const Navbar = () => {
               <Loading />
             )}
             <a
-              href="https://github.com/GuilhermeSousaDev"
+              href="https://github.com/GuilhermeSousaDev/stripe-add-funds"
               target="_blank"
               className={`border ${buttonVariants({ variant: 'secondary' })}`}
             >
